@@ -39,28 +39,40 @@ const datosCliente = {
         {
             fecha: "UNA MUJER ESPECIAL",
             titulo: "María Isabel ❤️",
-            texto: "Una mujer guerrera, linda, cariñosa, romántica, alegre y divertida.",
+            texto:
+                "Una mujer guerrera, linda, cariñosa, romántica, alegre y divertida.",
             foto: "imagenes/foto3.PNG"
         },
 
         {
             fecha: "RECUERDOS",
             titulo: "Momentos que quedan",
-            texto: "Cada recuerdo compartido tiene un lugar especial en mi corazón.",
+            texto:
+                "Cada recuerdo compartido tiene un lugar especial en mi corazón.",
             foto: "imagenes/foto2.PNG"
         },
 
         {
             fecha: "NUESTRA FAMILIA",
             titulo: "Aleshka y Luhana ❤️",
-            texto: "Las extraño muchísimo. Ellas también forman parte de todo lo que llevo en mi corazón.",
+            texto:
+                "Las extraño muchísimo. Ellas también forman parte de todo lo que llevo en mi corazón.",
             foto: "imagenes/foto1.PNG"
+        },
+
+        {
+            fecha: "UN RECUERDO ESPECIAL ❤️",
+            titulo: "Un momento para guardar siempre",
+            texto:
+                "Hay momentos que se vuelven aún más especiales cuando se comparten con quienes hacen parte de nuestra vida. ❤️",
+            foto: "imagenes/foto5.PNG"
         },
 
         {
             fecha: "19 DE AGOSTO",
             titulo: "Feliz cumpleaños ❤️",
-            texto: "Hoy celebramos tu vida y a la maravillosa mujer que eres. Que nunca pierdas tu alegría y tu fuerza.",
+            texto:
+                "Hoy celebramos tu vida y a la maravillosa mujer que eres. Que nunca pierdas tu alegría y tu fuerza.",
             foto: "imagenes/foto4.PNG"
         }
 
