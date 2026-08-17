@@ -25,7 +25,7 @@ const datosCliente = {
             "Hoy quiero celebrar tu vida y recordarte lo especial que eres para mí. Admiro tu fuerza, tu alegría, tu cariño y esa manera tan especial que tienes de ser.",
 
         parrafo2:
-            "También extraño muchísimo a nuestras hijas, Aleshka y Luna. Ellas están contigo y siempre estarán presentes en mi corazón.",
+            "También extraño muchísimo a nuestras hijas, Aleshka y Luhana. Ellas están contigo y siempre estarán presentes en mi corazón.",
 
         parrafo3:
             "En este día tan especial quiero agradecerte por todo y recordarte algo que nunca cambiará: pase lo que pase, siempre estarás en mi corazón.",
@@ -52,7 +52,7 @@ const datosCliente = {
 
         {
             fecha: "NUESTRA FAMILIA",
-            titulo: "Aleshka y Luna ❤️",
+            titulo: "Aleshka y Luhana ❤️",
             texto: "Las extraño muchísimo. Ellas también forman parte de todo lo que llevo en mi corazón.",
             foto: "imagenes/foto1.PNG"
         },
